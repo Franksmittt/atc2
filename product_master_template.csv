@@ -1,0 +1,86 @@
+id,name,sku,category,brandName,ahCapacity,cca,warrantyMonths,sellingPrice_OUTPUT,isAGM,imagePath,popularFits,isScrapPrice,seoSubtitle
+101,Willard 619,619,Standard Automotive,Willard,43,325,24,"R 1,450.00",FALSE,/images/willard-619-car-battery-alberton.jpg,"Toyota Tazz, VW Polo Vivo, Opel Corsa",TRUE,Car Battery in Alberton
+102,Willard 652,652,Standard Automotive,Willard,70,590,24,"R 2,150.00",FALSE,/images/stock-battery.jpg,"Toyota Hilux (Petrol), Ford Ranger (Diesel)",TRUE,Car Battery in Alberton
+103,Willard 669,669,Standard Automotive,Willard,80,590,24,"R 3,000.00",FALSE,/images/stock-battery.jpg,"Mercedes-Benz (Diesel), Commercial Trucks",TRUE,Car Battery in Alberton
+104,Willard 668,668,Standard Automotive,Willard,80,590,24,"R 2,950.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+105,Willard 657,657,Standard Automotive,Willard,70,590,24,"R 2,400.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+106,Willard 651/647,651/647,Standard Automotive,Willard,60,460,24,"R 2,200.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+107,Willard 616,616,Standard Automotive,Willard,35,280,24,"R 1,550.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+108,Willard 628/9,628/9,Standard Automotive,Willard,50,335,24,"R 1,600.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+109,Willard 658,658,Standard Automotive,Willard,90,630,24,"R 3,050.00",FALSE,/images/stock-battery.jpg,"Toyota Land Cruiser, Heavy Duty Bakkies",TRUE,Car Battery in Alberton
+110,Willard 646,646,Standard Automotive,Willard,55,380,24,"R 1,900.00",FALSE,/images/stock-battery.jpg,"Nissan NP200, Renault Sandero, Toyota Yaris",TRUE,Car Battery in Alberton
+111,Exide 636CS,636CS,Standard Automotive,Exide,47,345,24,"R 1,550.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+112,Exide 610,610,Standard Automotive,Exide,35,280,24,"R 1,600.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+113,Exide 646CE,646CE,Standard Automotive,Exide,58,451,24,"R 1,900.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+114,Exide 628,628,Standard Automotive,Exide,48,385,24,"R 1,600.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+115,Exide 616CS,616CS,Standard Automotive,Exide,38,270,24,"R 1,500.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+116,Exide 622,622,Standard Automotive,Exide,52,400,24,"R 1,800.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+117,Exide 668,668,Standard Automotive,Exide,85,715,24,"R 2,950.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+118,Exide 619CE,619CE,Standard Automotive,Exide,42,314,24,"R 1,450.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+119,Exide 650,650,Standard Automotive,Exide,90,750,24,"R 2,600.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+122,Exide 659,659,Standard Automotive,Exide,75,775,24,"R 3,500.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+123,Exide 669P,669P,Standard Automotive,Exide,85,715,24,"R 3,150.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+126,Exide 658C,658C,Standard Automotive,Exide,96,820,24,"R 3,050.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+127,Exide 650CR,650CR,Standard Automotive,Exide,90,750,24,"R 2,600.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+128,Exide 657C,657C,Standard Automotive,Exide,70,567,24,"R 2,400.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+130,Exide 651,651,Standard Automotive,Exide,60,480,24,"R 2,200.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+131,Exide 638 (1),638,Standard Automotive,Exide,58,440,24,"R 1,950.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+132,Exide 652PS,652PS,Standard Automotive,Exide,75,660,24,"R 2,600.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+133,Exide 640CE,640CE,Standard Automotive,Exide,60,505,24,"R 2,250.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+134,Exide 638 (2),638,Standard Automotive,Exide,58,440,24,"R 1,950.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+135,Exide 615,615,Standard Automotive,Exide,38,270,24,"R 1,500.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+137,Exide 634,634,Standard Automotive,Exide,38,270,24,"R 1,600.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+138,Exide 631,631,Standard Automotive,Exide,42,315,24,"R 1,600.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+139,Exide 630,630,Standard Automotive,Exide,42,315,24,"R 1,600.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+140,Exide 616C,616C,Standard Automotive,Exide,38,270,24,"R 1,500.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+142,Exide 612,612,Standard Automotive,Exide,40,305,24,"R 1,600.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+145,Exide 639,639,Standard Automotive,Exide,58,440,24,"R 1,950.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+146,Exide 621,621,Standard Automotive,Exide,47,335,24,"R 1,800.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+150,Exide 611,611,Standard Automotive,Exide,35,280,24,"R 1,600.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+151,Exide 636,636,Standard Automotive,Exide,42,315,24,"R 1,800.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+153,Exide SMF101,SMF101,Standard Automotive,Exide,102,710,24,"R 3,350.00",FALSE,/images/stock-battery.jpg,,TRUE,Car Battery in Alberton
+120,Exide 652AGM,652AGM,Performance AGM/EFB,Exide,70,760,24,"R 4,250.00",TRUE,/images/stock-battery.jpg,,TRUE,AGM & EFB Battery in Alberton
+129,Exide 668AGM,668AGM,Performance AGM/EFB,Exide,80,800,24,"R 4,400.00",TRUE,/images/stock-battery.jpg,,TRUE,AGM & EFB Battery in Alberton
+136,Exide 658AGM,658AGM,Performance AGM/EFB,Exide,92,900,24,"R 4,700.00",TRUE,/images/stock-battery.jpg,,TRUE,AGM & EFB Battery in Alberton
+143,Exide 646AGM,646AGM,Performance AGM/EFB,Exide,60,680,24,"R 3,550.00",TRUE,/images/stock-battery.jpg,,TRUE,AGM & EFB Battery in Alberton
+121,Exide 696C,696C,Truck & Commercial,Exide,180,1150,24,"R 6,600.00",FALSE,/images/stock-battery.jpg,Heavy Duty Truck,TRUE,Truck & Commercial Battery in Alberton
+124,Exide 683C,683C,Truck & Commercial,Exide,115,690,24,"R 4,100.00",FALSE,/images/stock-battery.jpg,Commercial Truck,TRUE,Truck & Commercial Battery in Alberton
+125,Exide 689C,689C,Truck & Commercial,Exide,132,810,24,"R 4,850.00",FALSE,/images/stock-battery.jpg,Commercial Truck,TRUE,Truck & Commercial Battery in Alberton
+141,Exide 682C,682C,Truck & Commercial,Exide,115,690,24,"R 4,100.00",FALSE,/images/stock-battery.jpg,Commercial Truck,TRUE,Truck & Commercial Battery in Alberton
+144,Exide 674,674,Truck & Commercial,Exide,90,800,24,"R 3,200.00",FALSE,/images/stock-battery.jpg,Heavy-Duty Truck,TRUE,Truck & Commercial Battery in Alberton
+147,Exide 692C,692C,Truck & Commercial,Exide,145,920,24,"R 6,000.00",FALSE,/images/stock-battery.jpg,Heavy Duty Truck,TRUE,Truck & Commercial Battery in Alberton
+148,Exide 695CZ,695CZ,Truck & Commercial,Exide,230,1350,24,"R 7,700.00",FALSE,/images/stock-battery.jpg,Heavy Duty Truck,TRUE,Truck & Commercial Battery in Alberton
+149,Exide 688C,688C,Truck & Commercial,Exide,195,1260,24,"R 7,000.00",FALSE,/images/stock-battery.jpg,Heavy Duty Truck,TRUE,Truck & Commercial Battery in Alberton
+152,Exide SMF100,SMF100,Truck & Commercial,Exide,102,710,24,"R 3,350.00",FALSE,/images/stock-battery.jpg,Commercial Truck,TRUE,Truck & Commercial Battery in Alberton
+154,Enertec 12N10-3A,12N10-3A,Motorcycle,Enertec,11,0,12,R 860.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+155,Enertec 12N12A-4A-1,12N12A-4A-1,Motorcycle,Enertec,12,0,12,R 860.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+156,Enertec 12N14-3A,12N14-3A,Motorcycle,Enertec,14,0,12,"R 1,000.00",TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+157,Enertec 12N14-3B,12N14-3B,Motorcycle,Enertec,14,0,12,"R 1,000.00",TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+158,Enertec 12N5-3B,12N5-3B,Motorcycle,Enertec,5,0,12,R 400.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+159,Enertec 12N7-3B,12N7-3B,Motorcycle,Enertec,7,0,12,R 480.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+160,Enertec 12N7-4A,12N7-4A,Motorcycle,Enertec,7,0,12,R 520.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+161,Enertec 12N7A-3A,12N7A-3A,Motorcycle,Enertec,7,0,12,R 500.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+162,Enertec 12N9-3B,12N9-3B,Motorcycle,Enertec,8,0,12,R 600.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+163,Enertec 12N9-4M-1,12N9-4M-1,Motorcycle,Enertec,9,0,12,R 600.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+164,Enertec YB14LA-2,YB14LA-2,Motorcycle,Enertec,14,0,12,"R 1,000.00",TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+165,Enertec YB16CL-B,YB16CL-B,Motorcycle,Enertec,16,0,12,"R 1,720.00",TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+166,Enertec YB30CL-B,YB30CL-B,Motorcycle,Enertec,30,0,12,"R 2,380.00",TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+167,Enertec YT12A-BS,YT12A-BS,Motorcycle,Enertec,11,0,12,R 740.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+168,Enertec YT9B-4,YT9B-4,Motorcycle,Enertec,9,0,12,R 640.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+169,Enertec YTX12-BS,YTX12-BS,Motorcycle,Enertec,12,0,12,R 860.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+170,Enertec YTX14-BS,YTX14-BS,Motorcycle,Enertec,12,0,12,R 940.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+171,Enertec YTX14AH-BS,YTX14AH-BS,Motorcycle,Enertec,14,0,12,"R 1,080.00",TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+172,Enertec YTX14L-BS,YTX14L-BS,Motorcycle,Enertec,14,0,12,"R 1,000.00",TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+173,Enertec YTX16-BS,YTX16-BS,Motorcycle,Enertec,16,0,12,"R 1,320.00",TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+174,Enertec YTX20-BS,YTX20-BS,Motorcycle,Enertec,20,0,12,"R 1,480.00",TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+175,Enertec YTX20HL-BS,YTX20HL-BS,Motorcycle,Enertec,20,0,12,"R 1,340.00",TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+176,Enertec YTX20L-BS,YTX20L-BS,Motorcycle,Enertec,20,0,12,"R 1,500.00",TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+177,Enertec YTX30L,YTX30L,Motorcycle,Enertec,30,0,12,"R 2,460.00",TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+178,Enertec YTX4L-BS,YTX4L-BS,Motorcycle,Enertec,4,0,12,R 340.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+179,Enertec YTX5L-BS,YTX5L-BS,Motorcycle,Enertec,5,0,12,R 440.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+180,Enertec YTX6.5L-BS,YTX6.5L-BS,Motorcycle,Enertec,7,0,12,R 460.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+181,Enertec YTX7A-BS,YTX7A-BS,Motorcycle,Enertec,6,0,12,R 520.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+182,Enertec YTX7L-BS,YTX7L-BS,Motorcycle,Enertec,6,0,12,R 559.99,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+183,Enertec YTX9A-BS,YTX9A-BS,Motorcycle,Enertec,8,0,12,R 600.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+184,Enertec YTZ10S,YTZ10S,Motorcycle,Enertec,9,0,12,R 700.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton
+185,Enertec YTZ7S,YTZ7S,Motorcycle,Enertec,7,0,12,R 540.00,TRUE,/images/stock-battery.jpg,Motorcycle,TRUE,Motorcycle Battery in Alberton

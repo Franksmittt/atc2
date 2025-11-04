@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 220 10% 12%;       /* Dark Grey (Background) */
+    --foreground: 0 0% 100%;       /* White (Text/Foreground) */
+
+    --primary: 0 90% 48%;          /* Bright Red */
+    --primary-foreground: 0 0% 100%; /* White */
+
+    --card: 220 10% 18%;           /* Slightly lighter dark grey for cards */
+    --card-foreground: 0 0% 100%;
+
+    --secondary: 210 10% 40%;      /* Mid Grey */
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 210 10% 25%;
+    --muted-foreground: 210 10% 70%;
+
+    --accent: 210 10% 40%;
+    --accent-foreground: 0 0% 100%;
+
+    --border: 210 10% 30%;
+    --input: 210 10% 30%;
+    --ring: 0 90% 48%;
+
+    --radius: 0.5rem;
+    --chart-1: 0 90% 48%;
+  }
+
+  .dark {
+    /* Since the light mode is already dark, we use the same palette */
+    --background: 220 10% 12%;
+    --foreground: 0 0% 100%;
+
+    --primary: 0 90% 48%;
+    --primary-foreground: 0 0% 100%;
+
+    --card: 220 10% 18%;
+    --card-foreground: 0 0% 100%;
+
+    --secondary: 210 10% 40%;
+    --secondary-foreground: 0 0% 100%;
+    
+    --muted: 210 10% 25%;
+    --muted-foreground: 210 10% 70%;
+
+    --accent: 210 10% 40%;
+    --accent-foreground: 0 0% 100%;
+  }
+}
+
+/* Base styles for h1, p, etc. */
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
