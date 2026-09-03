@@ -8,7 +8,7 @@ import MeetTheStaff from "@/components/layout/MeetTheStaff";
 export const metadata: Metadata = {
   title: "About Alberton Battery Mart | Meet the Staff",
   description:
-    "Meet Shane and the Alberton team. Local specialists offering honest advice, free fitment, and a safety-first approach for Alberton drivers.",
+    "Meet Shane and Alex, the Alberton workshop team. Local specialists offering honest advice, quality fitment, and a safety-first approach for Alberton drivers.",
 };
 
 export default function AboutPage() {
