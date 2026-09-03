@@ -30,6 +30,7 @@ const Footer = () => {
       title: "Company & Hours",
       links: [
         { href: "/about", label: "About Us" },
+        { href: "/about#meet-the-staff", label: "Meet the Staff" },
         { href: "/faq", label: "FAQ" },
         { href: "/blog", label: "Blog" }, // <-- ADDED THIS
         { href: "/contact", label: "Contact Us" },
